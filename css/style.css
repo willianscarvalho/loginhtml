@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Ubuntu Mono', monospace;
+	src: url("../fonts/Ubuntu_Mono/UbuntuMono-Regular.ttf");
+	font-size: 1em;
+}
+* {
+
+}
+
+body {
+	font-family: 'Ubuntu Mono', monospace;
+}
+
+header {
+	margin: 30px;
+}
+
+#fieldlogin {
+	min-width: 10%;
+	max-width: 350px;
+	border: 2px solid #22313F;
+	padding: 10px;
+	border-radius: 4px;
+	background-color: #FFF;
+}
+
+#fieldCadastro {
+	min-width: 10%;
+	max-width: 750px;
+	height: auto;
+	border: 2px solid #22313F;
+	padding: 10px;
+	border-radius: 4px;
+	background-color: #FFF;
+}
+	
+label {
+	margin: 5px;
+}
+
+div {
+	margin: 05px;
+}
+
+img {
+	width: 360px;
+	margin: auto;
+}
+
+#imgcadastro {
+	width: 40%;	
+	margin: auto;
+}
+
+form {
+	margin: 10px;
+}
+
+#formcadastro {
+	width: 55%;
+	min-width: 20px;
+    margin: auto;    
+}
+
+button {
+	text-shadow: 2px 1px 3px black;
+	margin: auto;
+}
+
+.panel-body {
+	padding-top: 60px;
+}

@@ -1,0 +1,8 @@
+<?php
+
+	echo "Nome Informado: " . $_POST["name"] . "<br>";
+	echo "CPF/RG Informado: " . $_POST["cpf/rg"] . "<br>";
+	echo "E-mail Informado: " . $_POST["email"] . "<br>";
+	echo "Telefone Informado: " . $_POST["tel"] . "<br>";
+
+?>
